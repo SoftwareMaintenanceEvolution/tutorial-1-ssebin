@@ -11,7 +11,7 @@ I’m currently in my last semester, and I’m excited to explore new opportunit
 - To familiarize myself with industry-standard practices and tools for sustainable software development and long-term stability.
 
 ### 🌷 Fun Fact
-- I have just been to the Day6 Concert and I'm still living in that moment.
+- I have just been to the Day6 concert and I'm still living in that moment.
 - 🐻🦊🐰🐶
 
 ### 🌟 Image that Represents Me
