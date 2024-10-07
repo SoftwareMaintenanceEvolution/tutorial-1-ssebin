@@ -3,17 +3,21 @@
 ## Ello, I'm Sebin 🐼
 
 ### 🏫 4th Year Software Engineering Student
-I’m currently in my last semester, and I’m excited to explore new opportunities in the field of software engineering!
+I’m currently in my last semester, and I’m excited to explore new opportunities in the field of software maintenance and evolution!
 
 ### 💻 Expectations for Software Maintenance and Evolution
 - To gain a deeper understanding of maintaining and evolving software systems over time.
 - To learn practical techniques for handling codebases, refactoring, and managing technical debt.
 - To familiarize myself with industry-standard practices and tools for sustainable software development and long-term stability.
 
+### 🌷 Fun Fact
+- I have just been to the Day6 Concert and I'm still living in that moment.
+- 🐻🦊🐰🐶
+
 ### 🌟 Image that Represents Me
 ![Sebin's Picture](me.JPG)  
 
-- I'm both of them 
+- I'm both of them. 
 - ㅇㅅㅇ 
 - ㅇㅁㅇ
 
